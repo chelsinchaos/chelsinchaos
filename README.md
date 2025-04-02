@@ -45,7 +45,7 @@ I'm a **technologist**, **inventor**, and **Co-Founder/CTO** of LogNovations wit
 ## Let's Connect!
 Feel free to explore my repositories, star the projects that inspire you, and reach out for collaboration!
 
-[LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[LinkedIn](https://www.linkedin.com) | [Threads](https://threads.net/@camcelveen)
 
 ---
 
