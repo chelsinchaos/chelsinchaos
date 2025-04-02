@@ -2,8 +2,6 @@
 
 I'm a **technologist**, **inventor**, and **Co-Founder/CTO** of LogNovations with over a decade of experience in cloud, AI, mobile, and edge computing. I thrive on curiosity, innovation, and challenging the status quo to deliver transformative solutions. 
 
-![Innovation](https://media.giphy.com/media/26uf9QPzzlKPvQG5a/giphy.gif)
-
 ---
 
 ## About Me
