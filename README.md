@@ -18,7 +18,7 @@ I'm a **technologist**, **inventor**, and **Co-Founder/CTO** of LogNovations wit
 | **Field**                         | **Achievement**                                                                 |
 | --------------------------------- | ------------------------------------------------------------------------------- |
 | **Fully Homomorphic Compression** | Invented patented technology that revolutionizes quantum data storage & cryptography. |
-| **Algorithm Innovation**          | Developed O(1) selection methods and efficient factorization techniques.        |
+| **Algorithm Innovation**          | Developed O(1) selection methods.        |
 | **Scalable Microservices**        | Architected microservices for real estate SaaS & AGI applications.               |
 | **Global Patents**                | Secured 72 patents, showcasing a proven track record of impactful innovation.    |
 
